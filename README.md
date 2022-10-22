@@ -1,2 +1,1 @@
-# Data-science-projects
-DS Projects
+# AQI-Project
