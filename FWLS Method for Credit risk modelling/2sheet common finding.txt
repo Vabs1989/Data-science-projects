@@ -1,0 +1,2 @@
+###two sheet compare in excel:
+=IF(fwls_train!B2=Sheet1!B2,0,1)
